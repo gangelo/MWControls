@@ -8,7 +8,7 @@
 
 import UIKit
 
-internal class ToggleBarButtonItem : UIBarButtonItem {
+internal class UIToggleBarButtonItem : UIBarButtonItem {
     private var _titles = (title0: "Edit", title1: "Done")
     private var _toggleState = false
     
